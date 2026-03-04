@@ -53,7 +53,7 @@ Through an accessible centralised repository, and the location of it is known to
 Proof of existence of the repository, and example of uptake. Provide detail on how this repository is disseminated and made accessible.
 
 
-## Dissemination of this program in the institution
+## Green DiSC dissemination
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
 ![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20G4--B-white)
