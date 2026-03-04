@@ -1,7 +1,7 @@
 # Welcome to the Green DiSC Guidelines for Research Group Applicants!
 
 > [!NOTE]
-> Last updated 17 Sept 2025 by Loïc Lannelongue and Anica Araneta
+> Last updated 04 March 2026 by Loïc Lannelongue and Anica Araneta
 
 We’re thrilled to have you join the community of research groups and institutions tackling the environmental impacts of their computing activities.
 
