@@ -1,11 +1,13 @@
 # Welcome to the Green DiSC Guidelines for Research Group Applicants!
 
 > [!NOTE]
-> Last updated 17 Sept 2025 by Loïc Lannelongue and Anica Araneta
+> Last updated 04 March 2026 by Loïc Lannelongue and Anica Araneta
 
 We’re thrilled to have you join the community of research groups and institutions tackling the environmental impacts of their computing activities.
 
 These guidelines will walk you through the process of applying for a Green DiSC certification. Please take the time to review this document before you start filling out the submission template.
+
+Note that certification applies for 2 years, and teams will be expected to apply for recertification after this period. There will be separate guidelines for recertification (lighter touch than this initial certification process!).
 
 
 > [!NOTE]
@@ -16,11 +18,11 @@ These guidelines will walk you through the process of applying for a Green DiSC 
 > - Sign up for the newsletter: [https://zcmp.eu/mwMp](https://zcmp.eu/mwMp)  
 
 
-# Applying as a Central Team or Research Group?
+# Applying as a, RCI Team, Central Team, or Research Group?
 
-You can apply for Green DiSC either as a central team or research group. If you’re certain about which application you should be making, great! Feel free to proceed to the next section.
+You can apply for Green DiSC either as a central team, research group, or research computing infrastructure (RCI) team. If you’re certain about which application you should be making, great! Feel free to proceed to the next section.
 
-If you’re unsure about which one to do, our general rule of thumb is this: if you run compute or do research yourself/within your team, then you should be certified as a research group (this is the default level for Green DiSC). On the other hand,  if your team has more of a **facilitator** role, enabling and supporting groups doing research and/or computation, you should apply as a central team. 
+If you’re unsure about which one to do, our general rule of thumb is this: if you run compute or do research yourself/within your team, then you should be certified as a research group (this is the default level for Green DiSC). Meanwhile,  if your team has more of a **facilitator** role, enabling and supporting groups doing research and/or computation, you should apply as a central team. But if your team provides a service managing HPC infrastructure to support research done by other groups in your institution, you should apply as an RCI team.
 
 We understand that many institutions can have gray areas so if you are still unsure about this, you can email us at [info@greendisc.org](mailto:info@greendisc.org) and we can help.
 
@@ -100,7 +102,7 @@ Make sure to take note of the next deadline for submission (check the [webpage](
 
 ### What happens after submission? 
 
-After the deadline, we will allocate peer reviewers for your application and give everyone a few weeks to complete the reviews. Then we will give you sufficient time to respond to your reviewers’ comments and make required adjustments (if any), and the final outcome will be communicated to you around 3 months after the deadline, with certificates awarded shortly after.
+After the deadline, we will allocate peer reviewers for your application and give everyone a few weeks to complete the reviews. Then we will give you sufficient time to respond to your reviewers’ comments and make required adjustments (if any), and the final outcome will be communicated to you around 10 weeks after the deadline, with certificates awarded shortly after.
 
 # How long is the certification valid for? 
 
