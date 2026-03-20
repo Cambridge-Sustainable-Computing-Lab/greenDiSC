@@ -52,7 +52,7 @@ Through a central sustainability platform and sharing externally on the Green Di
 Details of resources shared, with the way it was shared and the number of people shared with.
 
 
-## Dissemination of this program in the institution
+## Green DiSC dissemination
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
 ![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RG)%20G4--B-white)
