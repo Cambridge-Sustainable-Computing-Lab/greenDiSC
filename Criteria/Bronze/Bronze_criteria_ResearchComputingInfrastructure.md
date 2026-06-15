@@ -3,7 +3,7 @@
 ## Green DiSC Representative
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20G1--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20G1--B-white)
 
 Nomination of a Green DiSC representative that is responsible for this Green DiSC submission and other sustainability efforts in the RCI team.
 
@@ -25,7 +25,7 @@ A member of staff takes on the responsibility, and makes sure to pass it on when
 ## Computing sustainability in induction procedures for the RCI team
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20G2--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20G2--B-white)
 
 There is induction material about digital sustainability available to all new starters in the RCI team. This induction material should highlight how the team embeds environmental sustainability in their practice. 
 
@@ -47,7 +47,7 @@ This refers to content specific about digital and computing sustainability, not 
 ## Repository for green computing information
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20G3--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20G3--B-white)
 
 The RCI team maintains a repository (e.g. on the intranet) with useful green computing-related information for their users, and a list of the computing infrastructures they manage. In addition to RCI users, these are shared with the institution’s central sustainability and IT teams, and with other RCI teams within the institution (if any).
 
@@ -68,7 +68,7 @@ A repository of digital sustainability-related information and a list of computi
 ## Green DiSC dissemination
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20G4--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20G4--B-white)
 
 The Green DiSC scheme is not only implemented within the RCI team, but also disseminated across the user community. This includes sharing the Green DiSC criteria and resources, updating the community about the status of the application/certification, and making evidence accessible to encourage other applications from central teams and research groups within the user community.
 
@@ -89,7 +89,7 @@ Through engagement with users (e.g. meetings, mailing lists, department policies
 ## Documented “Reuse, Repair, Recycle” process for computing hardware 
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20G5--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20G5--B-white)
 
 There is documentation of how broken, spare, and unusable equipment (i.e. electronic waste) from the RCI team is dealt with. As much as possible, broken equipment is repaired, spare equipment is reallocated, and any electronic waste is recycled. This covers office computers, laptops, monitors, and hard drives used for work, as well as servers equipment and other related equipment and parts.
 
@@ -111,7 +111,7 @@ List the disposing streams available from institution guidelines, as well as any
 ## Inventory of office computing hardware
 
 ![Category general](https://img.shields.io/badge/category-offices-yellow)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20O1--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20O1--B-white)
 
 There is a list of the different computing hardware owned by the RCI team in the office, whether or not it is currently in use, as well as suppliers and warranty policies that apply. This list is updated yearly and includes laptops, desktop computers, monitors, tablets, external hard drives, and testing equipment (if any). This does not include server rooms hardware, which is a separate criteria.
 
@@ -141,7 +141,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Inventory of data resources managed by the RCI team
 
 ![Category general](https://img.shields.io/badge/category-data%20storage-red)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20DS1--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20DS1--B-white)
 
 There is an inventory of the main data resources directly managed by the RCI team, including key information about each dataset (storage location, number of users, size, whether the data is unique or duplicate of another repository, number of backups, etc.). This inventory is updated regularly (frequency depends on field, at least yearly).
 
@@ -163,7 +163,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Inventory of major data resources managed by users
 
 ![Category general](https://img.shields.io/badge/category-data%20storage-red)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20DS2--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20DS2--B-white)
 
 There is an inventory of the major datasets on the RCI that are managed by users (e.g. the largest in size, the most used etc.). This can be used to identify hotspots needing more attention. This inventory is updated regularly (frequency depends on field, at least yearly).
 
@@ -187,7 +187,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Data cleaning process and user education
 
 ![Category general](https://img.shields.io/badge/category-data%20storage-red)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20DS3--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20DS3--B-white)
 
 There is a clear and regularly occurring process (twice a year is ideal) for the cleaning of data directories owned by the RCI team. This process should include regular reminders for deletion of temporary/outdated files. Data cleaning best practices should also be made available to the user community.
 
@@ -213,7 +213,7 @@ Enforce a regularly occurring data cleaning process for data owned by the team, 
 ## Inventory of data centres managed by the RCI team
 
 ![Category general](https://img.shields.io/badge/category-compute-silver)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20RCI1--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20RCI1--B-white)
 
 There is a list of the computing infrastructures (i.e. buildings, data centres) managed by the RCI team, including both on-site (e.g. local data centres, servers in the office) and off-site infrastructures (e.g. remote institutional computing facilities). This inventory is updated regularly (frequency depends on field, at least yearly). It is recommended to coordinate with any central IT teams and the IT estate to ensure that this list is comprehensive.
 
@@ -235,7 +235,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Inventory of server hardware
 
 ![Category general](https://img.shields.io/badge/category-compute-silver)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20RCI2--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20RCI2--B-white)
 
 There is an inventory of all computing hardware used in server rooms, including servers, computing cores, storage, etc. This only covers data centres (or parts of data centres in case of shared infrastructures) within the responsibility of the RCI team.
 
@@ -257,7 +257,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Inventory of third-party computing providers
 
 ![Category general](https://img.shields.io/badge/category-compute-silver)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20RCI3--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20RCI3--B-white)
 
 There is a list of the largest/most active computing infrastructures used by users in your institution but not managed by the RCI team that you are aware of and/or interact with. Data on these providers can of course be difficult to obtain (as not operated by the RCI team), so the focus here is on what information can feasibly be collected, and focusing on the major providers (e.g. largest financial contracts) can be a good way to go.
 
@@ -281,7 +281,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Inventory of centrally installed software
 
 ![Category general](https://img.shields.io/badge/category-compute-silver)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20RCI4--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20RCI4--B-white)
 
 There is an inventory of all software that is centrally installed on the RCI, and this inventory is made available to users (either directly on the RCI system or in the documentation).
 
@@ -303,7 +303,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Inventory of computing workflow hotspots
 
 ![Category general](https://img.shields.io/badge/category-compute-silver)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20RCI5--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20RCI5--B-white)
 
 There is an inventory of the biggest resource users (e.g. based on number of jobs, longest jobs, highest total CPU time, most memory used) on the RCI. It can be individual users with particularly high usage, or the most popular widely used pipelines.
 
@@ -328,7 +328,7 @@ You may use [this template](https://docs.google.com/spreadsheets/d/1GEUPeHO6CnJh
 ## Overall energy monitoring of data centres
 
 ![Category general](https://img.shields.io/badge/category-compute-silver)
-![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(CT)%20RCI6--B-white)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RCI)%20RCI6--B-white)
 
 Overall energy monitoring of the on-site server rooms (i.e. aggregate consumption for the entire room/building that the RCI team controls) and colocation data centre environments are monitored on a regular basis. This does not include remote cloud resources.
 
@@ -344,4 +344,3 @@ This can be done through a number of ways, e.g. through existing  electricity me
 ### Checklist
 - Provide proof that overall energy monitoring is being conducted
 - If available, include how this information is being reported, how this data is being used, and if there are targets to reduce or optimise this in the future
-- (Optional) Include granular data of usage across time, if available
