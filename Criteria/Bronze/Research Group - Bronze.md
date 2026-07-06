@@ -1,5 +1,9 @@
 # Bronze Criteria for Research Groups
 
+You can see an overview of how the different criteria for Bronze, Silver, and Gold (coming soon!) relate to each other [here](https://github.com/Cambridge-Sustainable-Computing-Lab/greenDiSC/blob/main/Criteria/Green%20DiSC%20Criteria%20Overview_03072026.pdf).
+
+Version: 2.0
+
 ## Green DiSC Representative
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
