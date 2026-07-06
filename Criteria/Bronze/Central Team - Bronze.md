@@ -1,5 +1,7 @@
 # Bronze Criteria for Central Teams
 
+You can see an overview of all criteria for Research Groups, Central Teams, and Research Computing Infrastructure Teams [here](https://github.com/Cambridge-Sustainable-Computing-Lab/greenDiSC/blob/main/Criteria/Green%20DiSC%20Criteria%20Overview_03072026.pdf).
+
 ## Green DiSC Representative
 
 ![Category general](https://img.shields.io/badge/category-general-blue)
