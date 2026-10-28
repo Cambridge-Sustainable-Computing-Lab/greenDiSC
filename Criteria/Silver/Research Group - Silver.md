@@ -532,7 +532,7 @@ Reduces energy consumption of asymmetric cryptographic operations without compro
 Elliptic-Curve Cryptographic (ECC) methods allow smaller keys to provide equivalent levels of
 security to significantly larger keys originating from RSA and other non-ECC approaches. For
 example, an ECC key of 256 bits provides security equivalent to an RSA key of 3072 bits.
-This smaller size enables markedly quicker key generation, decryption, and digital signature
+This smaller size enables markedly quicker key generation, decryption, and digital signing
 operations to be performed by ECC, with resulting savings in computational runtime and energy
 use.
 
@@ -544,18 +544,18 @@ resulting in reduced energy consumption for a specific IoT application.
 
 **How?**
 
-Libraries which provide cryptographic services (such as [OpenSSL](https://openssl-library.org)
+Libraries which provide cryptographic services (such as [OpenSSL](https://openssl-library.org),
 [wolfSSL](https://www.wolfssl.com), [LibreSSL](https://www.libressl.org)) provide extensive
 support for ECC methods. These make ECC operations accessible to developers by offering
 high-level operations with reasonable defaults, while allowing applications with more specific
 requirements to provide parameters which configure lower-level aspects of ECC, such as
-defining curves and selecting cipher modes. Higher level and domain-specific languages such
+defining curves and selecting cipher modes. Higher-level and domain-specific languages such
 as Python and R also offer ECC facilities by providing bindings to these lower-level compiled
 libraries.
 
 Developers can therefore readily access a wide range of certified and standards-compliant ECC
 methods which may be configured to the particular requirements of their software. As such,
-many existing asymmetric-cryptography operations which use RSA may be replaced with ECC and
+many existing asymmetric cryptography operations which use RSA may be replaced with ECC, and
 ECC may be chosen for new projects.
 
 ### Checklist
@@ -564,7 +564,7 @@ ECC may be chosen for new projects.
     - Assess the suitability of replacement by ECC methods
     - Ensure adequate ECC support in currently-used libraries
 - **2) Prefer ECC methods in new projects (obligatory)**
-    - Ensure that any asymmetric-cryptography routines use ECC
+    - Ensure that any asymmetric cryptography routines use ECC
     - Select libraries which provide the required level of ECC support
     - Any support for non-ECC methods should be non-default
 - **3) Testing and CI should consider computational costs (optional)**
