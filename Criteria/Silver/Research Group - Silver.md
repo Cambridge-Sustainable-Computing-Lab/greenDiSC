@@ -519,3 +519,75 @@ You can list the resource usage of standard use cases as well as outline how it 
 - Is there evidence that the group has listed the software/tools developed?
 - Does the public documentation of the tools include information on resource usage and expected carbon footprint?
 - Is there evidence showing that the documentation is made available to potential users?
+
+## Prefer Elliptic-Curve Cryptographic Methods in Software
+
+![Category general](https://img.shields.io/badge/category-compute-silver)
+![Criteria ID](https://img.shields.io/badge/Criteria%20ID-(RG)%20C6--S-white)
+
+### Impact
+Reduces energy consumption of asymmetric cryptographic operations without compromising security.
+
+### Description
+Elliptic-Curve Cryptographic (ECC) methods allow smaller keys to provide equivalent levels of
+security to significantly larger keys originating from RSA and other non-ECC approaches. For
+example, an ECC key of 256 bits provides security equivalent to an RSA key of 3072 bits.
+This smaller size enables markedly quicker key generation, decryption, and digital signature
+operations to be performed by ECC, with resulting savings in computational runtime and energy
+use.
+
+[Potlapally et al, 2006 ](https://doi.org/10.1109/TMC.2006.16) demonstrates that ECC methods
+achieve energy savings relative to RSA on a range of platforms and across a range of cipher
+modes, and [Suárez-Albela et al, 2018](https://doi.org/10.3390/s18113868) shows ECC methods
+resulting in reduced energy consumption for a specific IoT application.
+
+
+**How?**
+
+Libraries which provide cryptographic services (such as [OpenSSL](https://openssl-library.org)
+[wolfSSL](https://www.wolfssl.com), [LibreSSL](https://www.libressl.org)) provide extensive
+support for ECC methods. These make ECC operations accessible to developers by offering
+high-level operations with reasonable defaults, while allowing applications with more specific
+requirements to provide parameters which configure lower-level aspects of ECC, such as
+defining curves and selecting cipher modes. Higher level and domain-specific languages such
+as Python and R also offer ECC facilities by providing bindings to these lower-level compiled
+libraries.
+
+Developers can therefore readily access a wide range of certified and standards-compliant ECC
+methods which may be configured to the particular requirements of their software. As such,
+many existing asymmetric-cryptography operations which use RSA may be replaced with ECC and
+ECC may be chosen for new projects.
+
+### Checklist
+- **1) Review existing codebases (obligatory)**
+    - Identify RSA use in existing codebases
+    - Assess the suitability of replacement by ECC methods
+    - Ensure adequate ECC support in currently-used libraries
+- **2) Prefer ECC methods in new projects (obligatory)**
+    - Ensure that any asymmetric-cryptography routines use ECC
+    - Select libraries which provide the required level of ECC support
+    - Any support for non-ECC methods should be non-default
+- **3) Testing and CI should consider computational costs (optional)**
+    - Unit tests and CI may be used to verify that the computational workload of cryptographic operations falls within acceptable bounds
+
+### How will this be reviewed?
+**Your submission should demonstrate:**
+- Opportunities to reduce power consumption by using ECC methods have been considered and selected where appropriate.
+- Any support for RSA, ElGamal, plain Diffie-Hellman, etc. methods are non-default.
+- Awareness of potential for RSA to outperform ECC for signature verification, where relevant to the application.
+- Any use of non-ECC methods where an ECC-based alternative exists should be justified by the application's specific circumstances.
+
+
+**Evidence can include:**
+- Discussion and analysis of cryptographic components of the software design process.
+- Links to source code, including relevant documentation, tests, and CI operations.
+- Performance analysis and/or benchmarking of real-world energy-consumption reductions achieved.
+
+### Auditor Guidance
+- Does software use ECC methods for cryptographic operations?
+- Does any compilation or build system enable ECC methods by default?
+- Are ECC methods the default mode of operation at runtime, requiring no user action or configuration to use?
+- Where deprecated non-ECC implementations have been replaced, do runtimes and benchmarks show expected improvement?
+- Does documentation, changelogs, etc. note the performance motivation for ECC use?
+- Are decisions to employ non-ECC methods justified by the application's specific requirements?
+- Has awareness of the limitations of ECC relative to RSA for signature verification applications been demonstrated?
